@@ -6,5 +6,6 @@ window.onload = function() {
     document.getElementsByClassName('breadcrumb-blog')[0].style.backgroundPosition = "center";
 }
 
+console.log("Hi");
 
 
